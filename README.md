@@ -1,3 +1,5 @@
+Hey! I'm Michael, a 2nd year in the Business & Computer Science Program at UBC Sauder. 
+
 - 👀 I’m interested in Front-End Development and Web3!
 - 🌱 I’m currently learning JavaScript and Smart Contract Development
 - 📫 How to reach me: thammichael20@gmail.com ! 
