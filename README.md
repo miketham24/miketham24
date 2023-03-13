@@ -1,7 +1,7 @@
 Hey! I'm Michael, a 3rd year in the Business & Computer Science Program at UBC Sauder. 
 
 - 👀 I’m interested in Software Development!
-- 🌱 I’m currently learning JavaScript and Smart Contract Development
+- 🌱 I’m currently learning Cloud computing.
 - 📫 How to reach me: thammichael20@gmail.com
 
 <!---
