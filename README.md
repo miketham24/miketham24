@@ -1,5 +1,5 @@
 Hey! I'm Michael, a 3rd year in the Business & Computer Science Program at UBC Sauder. 
-Current Intern at Electronic Arts (EA) 🎮
+Previous Intern at Electronic Arts (EA) 🎮 and Royal Bank Of Canada (RBC) 💸
 
 - 👀 I’m interested in Product Mangement, Project Management, and Software Development!
 - 🌱 I’m currently learning Cloud computing.
