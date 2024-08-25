@@ -3,7 +3,7 @@ Previous Intern at Electronic Arts (EA) 🎮 and Royal Bank Of Canada (RBC) 💸
 
 - 👀 I’m interested in Data Science, Product Management, and Software Development!
 - 🌱 I’m currently learning AI development and ML.
-- 📫 How to reach me: thammichael20@gmail.com
+- 📫 How to reach me: michaelthamk@gmail.com
 
 <!---
 miketham24/miketham24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
